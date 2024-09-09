@@ -1,7 +1,7 @@
 # Windows Terminal
 I have been using windows terminal from it's earliest days from it's first public Beta to now. It has become a very powerful tool for system management and software development.
 
-Obtainable from the Microsoft Store in windows 10 and 11 it's become my go to for PowerShell and software development. You can do some really cool things with it like make the prompt look awesome:
+Obtainable from the Microsoft Store in windows 10 and 11 it has become my go to for PowerShell and software development. You can do some really cool things with it like make the prompt look awesome:
 ![image](https://github.com/user-attachments/assets/43c2a7e9-599a-46cb-8668-8f68b060a636)
 
 You can get intellisense style command completion:
