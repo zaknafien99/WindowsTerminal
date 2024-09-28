@@ -59,6 +59,6 @@ These commands enable Intellisense style autocompletion.
 You also need to set a PowerLine font.
 ![image](https://github.com/user-attachments/assets/e123ec35-2bb4-4eb7-8012-778b8e75daa3)
 
-You can also set this in the JSON and in the early days this was the only way to do it, but you have more control through the GUI and it won't break the terminal if you miss a comma. YOu can get some really cool fonts from NerdFonts. For more information read the great Scott Hansleman's blog: https://www.hanselman.com/blog/my-ultimate-powershell-prompt-with-oh-my-posh-and-the-windows-terminal
+You can also set this in the JSON and in the early days this was the only way to do it, but you have more control through the GUI and it won't break the terminal if you miss a comma. YOu can get some really cool fonts from NerdFonts. For more information read the great Scott Hanselman's blog: https://www.hanselman.com/blog/my-ultimate-powershell-prompt-with-oh-my-posh-and-the-windows-terminal
 
 There's lots of great information out there, how have you set up your terminal?
